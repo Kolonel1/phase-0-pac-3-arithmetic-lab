@@ -1,7 +1,7 @@
-function add(x,y){return(x+=y);}
-function subtract(x,y){return(x-=y);}
-function multiply(x,y){return(x*=y);}
-function divide(x,y){return(x/=y);}
+function add(x,y){return(x+y);}
+function subtract(x,y){return(x-y);}
+function multiply(x,y){return(x*y);}
+function divide(x,y){return(x/y);}
 //now to increment and decrement functions which i do not remember reading
 
 let number = 5;
